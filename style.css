@@ -33,5 +33,9 @@ a:hover, a:active {text-decoration: underline; color: red;}
 #nav { text-align: center; }
 #title { text-align: center; float: right; }
 #footer { font-size: 6pt; font-style: italicl; text-align: center; }
+#photo2{ width:325px; padding:10px; border: solid 5px powderblue; text-align: center; padding-top: 10px; font-family: Estrangelo Edessa; }
+#photo1 { width:325px; padding:10px; border: solid 5px powderblue; text-align: center; padding-top: 10px; padding-bottom: 10px; font-family; }
+
+
 
 
