@@ -12,22 +12,26 @@ body
 border-top: solid 6px whitesmoke; border-bottom: solid 6px whitesmoke;  }
 div { background-color:whitesmoke; }
 h1.title { font-family:Estrangelo Edessa; text-align:center; margin:1px; font-size: 32pt; margin-top: 15px; text-align: center; margin-bottom: 0px;}
-#header { color: powderblue; }
-h2.titletop { color: powderblue; }
-h2.title  {	font-size: 14pt;
+#header { color: cadetblue; }
+h2.titletop { color: cadetblue; }
+h2.title  {	font-size: 16pt;
 			font-weight: normal;
 			text-decoration: underline;
 			font-variant: small-caps;
 			padding-bottom: 0px;
 			margin-top: 30px;
 			margin-bottom: 25px;
+			font-family: Estranglo Edessa;
 									}
 
 
-h3 { color: blue; font-family: Estrangelo Edessa; font-weight: bold; text-align: left; }
-p { color: black; font-size: 16pt; text-align: left; padding-left: 50pt; padding-right: 50pt; }
-ul { list-style: none; }
+p { color: black; font-size: 14pt; text-align: left; padding-left: 50pt; padding-right: 50pt; }
+ul { list-style: none; font-size: 14pt; font-family: Estrangelo Edessa;  }
 a {text-decoration: none; text-align: left; }
 a:link, a:visited {color: black;}
 a:hover, a:active {text-decoration: underline; color: red;}
+#nav { text-align: center; }
+#title { text-align: center; float: right; }
+#footer { font-size: 6pt; font-style: italicl; text-align: center; }
+
 
